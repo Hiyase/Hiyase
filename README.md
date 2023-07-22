@@ -1,5 +1,6 @@
-# 👋 Hi there, I'm Hiyase.<br>👋 你好，我是冷曦<br> [博客](https://Hiyase.Github.io)
-<p>一个非常普通的普通人，希望世界美好，愿一切安好<br>
+# 👋 Hi there, I'm Hiyase.<br>👋 你好，我是冷曦<br>
+[博客](https://Hiyase.Github.io)
+<p>一个非常普通的普通人，希望世界美好，愿一切安好<br> 
 会使用和理解 Windows、MacOS、Linux 喜欢各类奇怪好玩的程序<br>
 除了不会写代码，和计算机有关的都相对理解，能看懂一些代码，理解什么是程序<br>
 希望学习写程序，目标方向是运维、程序，似乎什么都想学，但什么都没学太好<br>
